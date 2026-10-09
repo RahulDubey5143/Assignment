@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1d30860a49c4795354984f0c70cb2bf7\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\7831292ee18f115440a2d96cdaff3b5f\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\39307c41303b690001b0f025f83ad85f\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\e0244640a894f73a49baa7fc92c14e74\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\adf9b2f5612c581743722c86d90ef3f0\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\8784b0d4bd819701095a03e0bb81dcd0\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\8633c2e7339996bae3184bdbc54d8397\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\d81c9d5dd090d3648f887b07f0039c1d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\224aeb50404c6720256148ad6806f9e5\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9cac90eab97c497362b0ffda55d49fcb\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\472f5879cf4d6f6d24a189ac1673aa3d\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1aaf2a2cf8cfbced8b93d2762a7d3ec4\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\70992c66970742105754ba2df8520016\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\6ab0d57d90283d88f16571b471ae06d9\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\03663b46e81fac473536884d0defb2f7\transformed\core-bundle-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\0ecaee608afb25b1706c4ff8b9383a1d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\2ecc1a3d3c92c5e867a3c294eae5bd3a\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\c85217969952d76878f5e9bd356aad06\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\a01ca68ef1af15ab0453649081ef1a08\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\dd90eee5dc9ce6d16e7a9cb5c42a22cb\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\74263f806bbf90c2859bf51c45687226\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\58f573ee728adc32e77dd7a18137853b\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\caaf44b40c34124898e3f012585ea73e\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1704b88889780ab12c2988a21a724296\transformed\lifecycle-livedata-core-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\e545f544b0e5692d23052c27696a697c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9b1c5609c0ba3071ed50fbef62ea8970\transformed\lifecycle-viewmodel-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\6ee5b55eabe1f5c2887e1f948cac9a4d\transformed\lifecycle-viewmodel-savedstate-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\50ee9c5b8a1ad7979cab5cd949a740e4\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9d4bac78e2a4a1e7d566008706e8b8d7\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\5483bf46a8aa2ba2ccb59a4427ba4330\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\99faf761f42af2c325db4351cb8296d4\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\f96265abeea955922b6790671e33a2c8\transformed\activity-compose-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [app.cash.sqldelight:android-driver:2.0.2] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\e1d266893e65aed5d964c56d895068a5\transformed\android-driver-2.0.2-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\22f093288d5f2bc072696b97ad4006ce\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\3eec435b4c49bf93eede34ac3826bd9a\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\d031b47d41d57be58d54e99f077c5517\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\45796aedd43f0fc51801e82a6ea128f3\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\b185f2bf586e3ae1611a55faa954683a\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\43fa508dced94d93dbfdca7f094ac50d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\56cb6b04853829ec468160a197ce4b04\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\2ef5178d065112e3205678a20a30d528\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\d5c84ec998cbd3dc90af6559775d27e7\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\524bff9cb98f46b678faf22bb461beaa\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:3:5-13:19
+INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:3:5-13:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\caaf44b40c34124898e3f012585ea73e\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\caaf44b40c34124898e3f012585ea73e\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\43fa508dced94d93dbfdca7f094ac50d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\43fa508dced94d93dbfdca7f094ac50d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\2ef5178d065112e3205678a20a30d528\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\2ef5178d065112e3205678a20a30d528\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:5:9-43
+	android:theme
+		ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:6:9-72
+	android:name
+		ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:4:9-36
+activity#com.example.learning.MainActivity
+ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:7:9-12:20
+	android:exported
+		ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:7:48-71
+	android:name
+		ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:7:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:8:13-11:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:9:17-69
+	android:name
+		ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:10:17-77
+	android:name
+		ADDED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml:10:27-74
+uses-sdk
+INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml
+INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1d30860a49c4795354984f0c70cb2bf7\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1d30860a49c4795354984f0c70cb2bf7\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\7831292ee18f115440a2d96cdaff3b5f\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\7831292ee18f115440a2d96cdaff3b5f\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\39307c41303b690001b0f025f83ad85f\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\39307c41303b690001b0f025f83ad85f\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\e0244640a894f73a49baa7fc92c14e74\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\e0244640a894f73a49baa7fc92c14e74\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\adf9b2f5612c581743722c86d90ef3f0\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\adf9b2f5612c581743722c86d90ef3f0\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\8784b0d4bd819701095a03e0bb81dcd0\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\8784b0d4bd819701095a03e0bb81dcd0\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\8633c2e7339996bae3184bdbc54d8397\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\8633c2e7339996bae3184bdbc54d8397\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\d81c9d5dd090d3648f887b07f0039c1d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\d81c9d5dd090d3648f887b07f0039c1d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\224aeb50404c6720256148ad6806f9e5\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\224aeb50404c6720256148ad6806f9e5\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9cac90eab97c497362b0ffda55d49fcb\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9cac90eab97c497362b0ffda55d49fcb\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\472f5879cf4d6f6d24a189ac1673aa3d\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\472f5879cf4d6f6d24a189ac1673aa3d\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1aaf2a2cf8cfbced8b93d2762a7d3ec4\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1aaf2a2cf8cfbced8b93d2762a7d3ec4\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\70992c66970742105754ba2df8520016\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\70992c66970742105754ba2df8520016\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\6ab0d57d90283d88f16571b471ae06d9\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\6ab0d57d90283d88f16571b471ae06d9\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\03663b46e81fac473536884d0defb2f7\transformed\core-bundle-debug\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\03663b46e81fac473536884d0defb2f7\transformed\core-bundle-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\0ecaee608afb25b1706c4ff8b9383a1d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\0ecaee608afb25b1706c4ff8b9383a1d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\2ecc1a3d3c92c5e867a3c294eae5bd3a\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\2ecc1a3d3c92c5e867a3c294eae5bd3a\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\c85217969952d76878f5e9bd356aad06\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\c85217969952d76878f5e9bd356aad06\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\a01ca68ef1af15ab0453649081ef1a08\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\a01ca68ef1af15ab0453649081ef1a08\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\dd90eee5dc9ce6d16e7a9cb5c42a22cb\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\dd90eee5dc9ce6d16e7a9cb5c42a22cb\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\74263f806bbf90c2859bf51c45687226\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\74263f806bbf90c2859bf51c45687226\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\58f573ee728adc32e77dd7a18137853b\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\58f573ee728adc32e77dd7a18137853b\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\caaf44b40c34124898e3f012585ea73e\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\caaf44b40c34124898e3f012585ea73e\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1704b88889780ab12c2988a21a724296\transformed\lifecycle-livedata-core-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1704b88889780ab12c2988a21a724296\transformed\lifecycle-livedata-core-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\e545f544b0e5692d23052c27696a697c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\e545f544b0e5692d23052c27696a697c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9b1c5609c0ba3071ed50fbef62ea8970\transformed\lifecycle-viewmodel-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9b1c5609c0ba3071ed50fbef62ea8970\transformed\lifecycle-viewmodel-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\6ee5b55eabe1f5c2887e1f948cac9a4d\transformed\lifecycle-viewmodel-savedstate-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\6ee5b55eabe1f5c2887e1f948cac9a4d\transformed\lifecycle-viewmodel-savedstate-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\50ee9c5b8a1ad7979cab5cd949a740e4\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\50ee9c5b8a1ad7979cab5cd949a740e4\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9d4bac78e2a4a1e7d566008706e8b8d7\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9d4bac78e2a4a1e7d566008706e8b8d7\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\5483bf46a8aa2ba2ccb59a4427ba4330\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\5483bf46a8aa2ba2ccb59a4427ba4330\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\99faf761f42af2c325db4351cb8296d4\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\99faf761f42af2c325db4351cb8296d4\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\f96265abeea955922b6790671e33a2c8\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\f96265abeea955922b6790671e33a2c8\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.0.2] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\e1d266893e65aed5d964c56d895068a5\transformed\android-driver-2.0.2-debug\AndroidManifest.xml:5:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.0.2] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\e1d266893e65aed5d964c56d895068a5\transformed\android-driver-2.0.2-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\22f093288d5f2bc072696b97ad4006ce\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\22f093288d5f2bc072696b97ad4006ce\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\3eec435b4c49bf93eede34ac3826bd9a\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\3eec435b4c49bf93eede34ac3826bd9a\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\d031b47d41d57be58d54e99f077c5517\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\d031b47d41d57be58d54e99f077c5517\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\45796aedd43f0fc51801e82a6ea128f3\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\45796aedd43f0fc51801e82a6ea128f3\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\b185f2bf586e3ae1611a55faa954683a\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\b185f2bf586e3ae1611a55faa954683a\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\43fa508dced94d93dbfdca7f094ac50d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\43fa508dced94d93dbfdca7f094ac50d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\56cb6b04853829ec468160a197ce4b04\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\56cb6b04853829ec468160a197ce4b04\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\2ef5178d065112e3205678a20a30d528\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\2ef5178d065112e3205678a20a30d528\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\d5c84ec998cbd3dc90af6559775d27e7\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\d5c84ec998cbd3dc90af6559775d27e7\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\524bff9cb98f46b678faf22bb461beaa\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\524bff9cb98f46b678faf22bb461beaa\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\NAVIN DUBEY\Downloads\LearningDashboard\composeApp\src\androidMain\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\caaf44b40c34124898e3f012585ea73e\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\caaf44b40c34124898e3f012585ea73e\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\2ef5178d065112e3205678a20a30d528\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\2ef5178d065112e3205678a20a30d528\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\ec92f62860514f5a61e383b04ab3029a\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.learning.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.learning.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\1305da529410d8b5b9976d6f76b14e2f\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\caaf44b40c34124898e3f012585ea73e\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\caaf44b40c34124898e3f012585ea73e\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\caaf44b40c34124898e3f012585ea73e\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\NAVIN DUBEY\jdk-26_windows-x64_bin\jdk-26.0.2\caches\8.14.3\transforms\9a53c307a3bdc7b9dc776cb0e53ce9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

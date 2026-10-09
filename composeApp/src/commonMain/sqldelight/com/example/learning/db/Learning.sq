@@ -1,0 +1,30 @@
+CREATE TABLE CourseEntity (
+    id INTEGER NOT NULL PRIMARY KEY,
+    title TEXT NOT NULL,
+    instructor TEXT NOT NULL,
+    progress INTEGER NOT NULL,
+    lessonCount INTEGER NOT NULL
+);
+
+CREATE TABLE LessonEntity (
+    id INTEGER NOT NULL PRIMARY KEY,
+    courseId INTEGER NOT NULL,
+    title TEXT NOT NULL,
+    completed INTEGER NOT NULL DEFAULT 0,
+    position INTEGER NOT NULL,
+    FOREIGN KEY (courseId) REFERENCES CourseEntity(id)
+);
+
+CREATE INDEX lesson_course_idx ON LessonEntity(courseId);
+
+selectAllCourses: SELECT * FROM CourseEntity ORDER BY id;
+selectCourse: SELECT * FROM CourseEntity WHERE id = ?;
+insertCourseIfAbsent: INSERT OR IGNORE INTO CourseEntity(id, title, instructor, progress, lessonCount) VALUES (?, ?, ?, ?, ?);
+updateCourseInfo: UPDATE CourseEntity SET title = ?, instructor = ?, lessonCount = ? WHERE id = ?;
+updateProgress: UPDATE CourseEntity SET progress = ? WHERE id = ?;
+
+selectLessons: SELECT * FROM LessonEntity WHERE courseId = ? ORDER BY position;
+insertLesson: INSERT OR REPLACE INTO LessonEntity(id, courseId, title, completed, position) VALUES (?, ?, ?, ?, ?);
+markLessonCompleted: UPDATE LessonEntity SET completed = 1 WHERE id = ?;
+countLessons: SELECT COUNT(*) FROM LessonEntity WHERE courseId = ?;
+countCompleted: SELECT COUNT(*) FROM LessonEntity WHERE courseId = ? AND completed = 1;
