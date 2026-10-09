@@ -2,7 +2,8 @@
 
 **Run:** open in Android Studio (JDK 17, Gradle 8.9 pinned in the wrapper) and run `composeApp`.
 **Test:** `./gradlew :composeApp:testDebugUnitTest`
-**Login:** any valid email + password `password123`. **Offline demo:** load courses, flip the "Offline" switch, press Refresh.
+**Login credentials:** Email `test@example.com` (any valid email format works) / Password `password123`.
+**Offline demo:** load courses, flip the "Offline" switch, press Refresh.
 
 ## 1. Architecture
 MVVM with a repository layer: `Compose UI -> ViewModel (StateFlow<UiState>) -> Repository -> Mock API + SQLDelight`.
